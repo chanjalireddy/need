@@ -1,0 +1,4 @@
+def co():
+   a,b=map(int,inpu().split())
+   return a+b
+print(co())

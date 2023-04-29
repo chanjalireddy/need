@@ -1,0 +1,4 @@
+p=int(input())
+a=(range(1,p+1))
+n=list(i**2 for i in range(1,9))
+print(dict(zip(a,n)))

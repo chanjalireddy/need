@@ -1,0 +1,1 @@
+>>> [ele for ele in range(2000,3201) if (ele %7==0 and ele%5!=0)]

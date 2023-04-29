@@ -1,0 +1,6 @@
+a=[]
+n=list(map(int,input("enter the values").split(',')))
+print(n)
+a=list(i**2 for i in n if(i%2!=0))
+print(a)
+

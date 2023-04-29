@@ -1,0 +1,4 @@
+a=int(input())
+my-generator=(i for i in range(a+1) if i%2==0)
+for i in my-generator:
+   print(i,end=' ')

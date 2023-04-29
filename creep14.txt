@@ -1,0 +1,2 @@
+a=input()
+print(int(str(a))+int(str(a+a))+int(str(a+a+a))+int(str(a+a+a+a)))

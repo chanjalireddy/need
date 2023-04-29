@@ -1,0 +1,4 @@
+def co(x):
+  return str(x)
+n=int(input())
+print(co(n))
